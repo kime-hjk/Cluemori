@@ -6,7 +6,9 @@ Everything runs on the device. There is no account, no user-data backend, and no
 
 > **Source is private.** Cluemori is being prepared for commercial release, so this repository is a showcase: what the app does, how it is built, and the engineering problems behind it.
 
-<!-- TODO: add 3-4 screenshots or a short demo GIF here (capture flow, memo detail, search, knowledge graph) -->
+| Review and save | Note details | Knowledge graph | Search |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/01-review-and-save.png" width="200" alt="AI-proposed title, summary, category and keywords, ready to edit and save"> | <img src="screenshots/02-note-details.png" width="200" alt="Note details with summary, keywords, related notes and context"> | <img src="screenshots/03-knowledge-graph.png" width="200" alt="Knowledge graph linking similar notes, with a similarity slider"> | <img src="screenshots/04-search.png" width="200" alt="Search results for a keyword"> |
 
 ## What it does
 
